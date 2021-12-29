@@ -1,7 +1,7 @@
 ## HelloWorld Ana Camba
 
 ### App Description
-`TODO://` This app greets the user and allows them to change the background color of the display, change the color of the text, and also change the displayed text. Besides, the user can reset these changes by clicking in the background and also the user can add his/her own personalized text.
+`TODO://` This app greets the user and allows them to change the background color of the display, change the color of the text, and also change the displayed text. Besides, the user can reset these changes by clicking in the background and also the user can add their own personalized text.
 
 ### App Walk-though
 
